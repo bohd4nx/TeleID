@@ -7,7 +7,7 @@ from aiogram.enums import ParseMode
 
 from bot.handlers import router
 
-BOT_TOKEN = '6232208431:AAHXT64BI4xYpASrzOPH2P6tQxMHMHYc8WA'
+BOT_TOKEN = ''
 
 
 async def main():
