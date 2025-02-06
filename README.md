@@ -50,11 +50,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
 ## 📝 License
+
 This project is MIT licensed. See LICENSE for more information.
 
 ## 🌟 Support
+
 If you find this project useful:
 
 - Give it a star ⭐
@@ -64,6 +65,5 @@ If you find this project useful:
 ---
 
 <div align="center">
-    <sub>Built with ❤️ by <a href="https://t.me/bohd4nx" target="_blank">Bohdan</a></sub>
+    <h4>Built with ❤️ by <a href="https://t.me/bohd4nx" target="_blank">Bohdan</a></h4>
 </div>
-
